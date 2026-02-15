@@ -1,0 +1,5 @@
+outs:
+- md5: 136cfd9f7b3fa2966cefcdb3d713f183
+  size: 78102
+  hash: md5
+  path: climate_silver.csv
