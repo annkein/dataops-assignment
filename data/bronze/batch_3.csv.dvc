@@ -1,0 +1,5 @@
+outs:
+- md5: d7a634237d8ebffb7f77f17230832a49
+  size: 12893
+  hash: md5
+  path: batch_3.csv
